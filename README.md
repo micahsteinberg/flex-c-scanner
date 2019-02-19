@@ -3,5 +3,5 @@ Scanner for C language, using GNU's Flex lexical scanning software.
 ## To run
 ```
 make cscanner
-./scsanner <  <filename>
+./csanner <  <filename>
 ```
